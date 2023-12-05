@@ -4,7 +4,7 @@ def get_movies_by_genre(genre):
     url = "https://moviesdatabase.p.rapidapi.com/titles"
 
     headers = {
-        'X-RapidAPI-Key': "06f851cc76mshbf06dba42430d31p12f8e4jsn27c1e5a98b94",
+        'X-RapidAPI-Key': "97bdb1c7camsh51235664bc07f3cp1021b1jsn519721a3a96b",
         'X-RapidAPI-Host': "moviesdatabase.p.rapidapi.com"
     }
 
